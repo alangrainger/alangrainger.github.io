@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "alangrainger/alangrainger.github.io": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
