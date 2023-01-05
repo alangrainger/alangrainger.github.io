@@ -6,7 +6,8 @@
     {
       "label": "Live preview",
       "type": "shell",
-      "command": "npx @11ty/eleventy --serve"
+      "command": "npx @11ty/eleventy --serve",
+      "problemMatcher": []
     },
     {
       "label": "Build site",
