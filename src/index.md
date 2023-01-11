@@ -15,6 +15,10 @@ One of the best things about it is that it's super easy to customise if you know
 - [Image Captions](https://github.com/alangrainger/obsidian-image-captions) - Adds captions to images
 - [Folder Notes](https://github.com/alangrainger/obsidian-folder-notes) - Adds Folder Notes to the default file tree
 
+I also maintain unofficial portable builds of Obsidian for Windows:
+
+[Obsidian Portable](https://github.com/alangrainger/obsidian-portable)
+
 ## Photography
 
 - [My photography portfolio](https://photos.thiswaytospain.com/)
